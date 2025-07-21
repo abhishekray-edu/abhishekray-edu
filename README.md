@@ -14,7 +14,7 @@
 
 ## 🧠 Technical Skills
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" />
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" />
 
 - **Languages:** Python, C++, SQL  
 - **ML & Data:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `SVM`, `logistic regression`  
