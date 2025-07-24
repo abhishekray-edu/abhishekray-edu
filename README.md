@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Abhishek Ray</h1>
 
 <p align="center">
-  🎓 CS Major @ USM · 🔬 ML & AI Enthusiast · 🛠 Building SnakeSplit-AI  
+  🎓 CS Major @ USM · 🔬 ML & AI Enthusiast · 🛠 Building SS-AI  
 </p>
 
 <p align="center">
