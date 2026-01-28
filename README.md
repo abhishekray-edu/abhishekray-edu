@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, I'm Abhishek Ray</h1>
+<h1 align="center">Hi, I'm Abhishek Ray</h1>
 
 <p align="center">
   🎓 CS Major @ USM · 🔬 ML & AI Enthusiast · 🛠 Building SS AI  
